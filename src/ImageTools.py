@@ -4,7 +4,6 @@ Created on 17.01.2021
 @author: michael
 '''
 import numpy
-import cv2 as cv
 from PIL import Image
 
 def pil_to_numpy(imageg):
